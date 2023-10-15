@@ -23,8 +23,6 @@ I cann't share dataset due to it contain individual's transaction history and co
 3. Later save it as csv file and store it in a database.
 4. Using Python's library pandas I do data manipulation as per our requirment.
 
-## Contact me: Linkedin [https://www.linkedin.com/in/sjpradhan/)
-
-
-
+## Contact me: 
+Linkedin [https://www.linkedin.com/in/sjpradhan/)
 For any feedback or questions
