@@ -2,7 +2,7 @@
 ## Purpose:
 I have dataset about transaction history of three consecutive fiscal year. I want to analyze the dataset in oreder to find out some meaningful insights from it . May it will help me to stay wealthy in future by eliminating the unnecessary money transactions and I can find the down side of money transaction.
 
-Dataset contain the pdf file all the information store in tabular format. Every fiscal year has assign with one pdf file and multiple pages.
+Dataset contain the pdf file all the information store in tabular format. Every fiscal year has assign with one pdf file and multiple pages. I cann't share dataset due to it contain individual transaction history and contain some sensetive inforamtion.
 
 ## Attribute Info:
 | Attribute     | Data Type | Information                      |
@@ -21,3 +21,5 @@ Dataset contain the pdf file all the information store in tabular format. Every 
 2. Help of power query we can do such a task. Power query has amazing feature known as append query.
 3. Later save it as csv file and store it in a database.
 4. Using Python's library pandas I do data manipulation as per our requirment.
+
+## Contact me: For any feedback or questions
