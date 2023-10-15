@@ -22,6 +22,7 @@ I can't share dataset due to it contain individual's transaction history and con
 2. Help of power query we can do such a task. Power query has amazing feature known as append query.
 3. Later save it as csv file and store it in a database.
 4. Using Python's library pandas I do data manipulation as per our requirment.
+5. [Share report and dashboard here](https://drive.google.com/file/d/1NCP_wFWUl12YxwlHr5S2dP0ezHkYq-wh/view?usp=sharing)
 
 ## Contact me: [Linkedin](https://www.linkedin.com/in/sjpradhan)
 
