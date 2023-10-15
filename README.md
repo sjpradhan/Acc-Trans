@@ -24,5 +24,5 @@ I cann't share dataset due to it contain individual's transaction history and co
 4. Using Python's library pandas I do data manipulation as per our requirment.
 
 ## Contact me: 
-Linkedin [https://www.linkedin.com/in/sjpradhan/)
+[Linkedin](https://www.linkedin.com/in/sjpradhan)
 For any feedback or questions
