@@ -24,6 +24,6 @@ I can't share dataset due to it contain individual's transaction history and con
 4. Using Python's library pandas I do data manipulation as per our requirment.
 5. [Share report and dashboard here](https://drive.google.com/file/d/1VUmYQuo2OgNt_uKcpHmhPZXWa-ho8k8J/view?usp=sharing)
 
-## Contact me: [Linkedin](https://www.linkedin.com/in/sjpradhan)
+## Contact me: [Linkedin](https://www.scdata.ai/project/39138)
 
 For any feedback or questions.
