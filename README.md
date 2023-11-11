@@ -1,5 +1,5 @@
 # Acc-Trans Demostration
-## Purpose:
+## Objective:
 I have dataset about transaction history of three consecutive fiscal year. I want to analyze the dataset in oreder to find out some meaningful insights from it . May it will help me to stay wealthy in future by eliminating the unnecessary money transactions and I can find the down side of money transaction.
 
 Dataset contain the pdf file all the information store in tabular format. Every fiscal year has assign with one pdf file and multiple pages. 
